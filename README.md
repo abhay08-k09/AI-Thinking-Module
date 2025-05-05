@@ -14,7 +14,7 @@ This project scrapes AI-related news articles from multiple sources, analyzes th
 - Uses BeautifulSoup for parsing HTML content.
 - Supports RSS feed parsing using Feedparser.
 - Processes and analyzes collected articles using the GROQ API (an AI language model).
-- Periodic execution (set to run every 30 minutes by default).
+- Periodic execution (set to run every 30 seconds by default).
 - Logs all actions and errors for debugging and monitoring.
 
 ## Installation
@@ -49,7 +49,7 @@ This project scrapes AI-related news articles from multiple sources, analyzes th
     - Sign up at [GROQ](https://www.groq.com/) to get your API key.
     - Replace the placeholder `INSERT_GROQ_API_KEY_HERE` in the script with your API key.
 
-5. **Optionally, change the interval at which the scraper runs** by adjusting the `INTERVAL_MINUTES` variable in the `main()` function (default is set to 0.5, meaning it runs every 30 minutes).
+5. **Optionally, change the interval at which the scraper runs** by adjusting the `INTERVAL_MINUTES` variable in the `main()` function (default is set to 0.5, meaning it runs every 30 seconds).
 
     ```python
     INTERVAL_MINUTES = 0.5  # Adjust this value to control how often it runs
