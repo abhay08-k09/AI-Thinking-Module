@@ -22,8 +22,8 @@ This project scrapes AI-related news articles from multiple sources, analyzes th
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/yourusername/ai-news-scraper.git
-    cd ai-news-scraper
+    git clone https://github.com/yourusername/AI-Thinking-Module.git
+    cd AI-Thinking-Module
     ```
 
 2. **Create a virtual environment (optional but recommended):**
