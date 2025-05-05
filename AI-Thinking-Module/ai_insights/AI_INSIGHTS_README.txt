@@ -1,0 +1,1 @@
+This document outlines the AI_INSIGHTS logging system used the AI-THINKING-MODULE.

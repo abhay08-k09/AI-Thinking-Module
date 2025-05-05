@@ -1,0 +1,1 @@
+This document outlines the AI_NEWS logging system used the AI-THINKING-MODULE.

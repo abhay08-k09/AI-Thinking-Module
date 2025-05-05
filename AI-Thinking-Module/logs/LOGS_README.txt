@@ -1,0 +1,1 @@
+This document outlines the EXTRA_LOGS logging system used the AI-THINKING-MODULE.
